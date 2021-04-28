@@ -1,0 +1,7 @@
+C:\Git\Estudos\designfactorymethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Git\Estudos\designfactorymethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Git\Estudos\designfactorymethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Git\Estudos\designfactorymethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Git\Estudos\designfactorymethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Git\Estudos\designfactorymethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Git\Estudos\designfactorymethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
